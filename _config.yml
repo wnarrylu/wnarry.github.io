@@ -19,8 +19,8 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://ofcan.github.io" # the base hostname & protocol for your site
+baseurl: /sam_yonski
 
 # social icons and sharing options
 social:

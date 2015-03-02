@@ -5,11 +5,11 @@ highlighter: pygments
 # Site settings
 title: "Sam Yonski"
 description: > # this means to ignore newlines until "email:"
-   Things that come to mind...
+   Reading and writing...
 
 email: sam.yonski@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/sam_yonski_logo.png"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 

@@ -5,6 +5,7 @@ categories: short_story
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
+
 Two astronauts stood in the purple nightfall of a warm and distant planet,
 facing a massive shipwreck stranded on the shores of the great acid lake. It was
 an ancient portugese man-of-war, split in two by a wide cavern across the
